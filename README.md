@@ -3,7 +3,9 @@ FloodAreaSegmentation adalah proyek berbasis deep learning untuk melakukan segme
 
 🚀 Fitur Utama
 ✅ Segmentasi piksel-presisi menggunakan arsitektur UNet
+
 ✅ Evaluasi performa dengan metrik IoU, Dice Score, dan Accuracy
+
 ✅ Dukungan data augmentasi untuk meningkatkan generalisasi model
 
 
